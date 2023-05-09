@@ -1,6 +1,8 @@
-## This Project is under development and only for testing purpose [Simple React Application and Automatic Deploy to Firebase Hosting via Github]
+# This Project is under development and only for testing purpose 
+## [Simple React Application and Automatic Deploy to Firebase Hosting via Github]
 
-# Getting Started with Create React App
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
