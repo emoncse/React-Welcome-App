@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "email-integration-test-85fc2"
-  }
+    "default": "pasrasuke",
+    "production": "pasrasuke"
+  },
+  "targets": {},
+  "etags": {}
 }
